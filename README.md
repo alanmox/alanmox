@@ -1,132 +1,356 @@
 <div align="center">
-  <br>
 
-  <!-- ANIMATED TYPING HEADER (HACKER STYLE) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&height=70&lines=ALLAN+MOX;Full+Stack+%7C+Deployment+Engineer;IT+Solutions+Architect;Bongo+Tech+%E2%80%A2+Global+Scale" 
-         alt="Typing SVG: Allan Mox – Full Stack | Deployment | Bongo Tech" />
+  <!-- 
+    ════════════════════════════════════════════════════════════
+                    SYSTEM INITIALIZATION SEQUENCE
+    ════════════════════════════════════════════════════════════
+    PROFILE: ALLAN MOX 
+    STATUS: ACTIVE | DEPLOYMENT ENGINEER
+    THEME: NEO-MATRIX | BONGO TECH ECOSYSTEM
+    ════════════════════════════════════════════════════════════
+  -->
+
+  <!-- 🚀 ANIMATED TERMINAL HEADER -->
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&height=70&lines=ALLANMOX;Full+Stack+%7C+Deployment+Engineer;IT+Solutions+Architect;Bongo+Tech+%E2%80%A2+Global+Scale" 
+         alt="Typing SVG: ALLANMOX – Full Stack | Deployment | Bongo Tech" />
   </a>
 
-  <!-- MODERN PROFILE BANNER / GIF SECTION – CLEAN MATRIX STREAMS -->
+  <!-- 
+    ████████████████████████████████████████████████████████████
+    DYNAMIC CONTRIBUTION VISUALIZATION - PRODUCTION STREAMS
+    ████████████████████████████████████████████████████████████
+  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub contribution grid snake animation - visualizing deployment activity streams" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
-  <em style="color: #888;">─── production streams ───</em>
+  
+  <!-- System status indicator -->
+  <table>
+    <tr>
+      <td align="center">
+        <code>⚡ PRODUCTION STREAMS: ACTIVE</code>
+      </td>
+      <td align="center">
+        <code>🔄 DEPLOYMENT PIPELINE: OPTIMAL</code>
+      </td>
+      <td align="center">
+        <code>🌐 BONGO TECH: SCALING</code>
+      </td>
+    </tr>
+  </table>
 
-  <br><br>
+  <br>
+
+  <!-- 
+    📱 SOCIAL PRESENCE MATRIX 
+    High-visibility badges with enhanced styling
+  -->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.tiktok.com/@allan_tech441?_r=1&_t=ZS-93qwaaCjqE8">
+          <img src="https://img.shields.io/badge/TikTok-@allan__tech-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a" alt="TikTok: @allan_tech" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://youtube.com/@allantech441?si=cs67y5PrnnXHm7iz">
+          <img src="https://img.shields.io/badge/YouTube-@allantech441-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000" alt="YouTube: @allantech441" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/alanmox8?igsh=MXQ3a3hlaWF5NTBzdw==">
+          <img src="https://img.shields.io/badge/Instagram-@alanmox8-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=d43f5a" alt="Instagram: @alanmox8" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
-<!-- ====================================================================== -->
-<!-- SECTION DIVIDER – NEON SIGNAL                                                  -->
-<!-- ====================================================================== -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Desktop%20Computer.png" width="30" align="left"> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="30" align="right">
+<!-- 
+  ════════════════════════════════════════════════════════════
+                    VISUAL SEPARATOR - CORE INIT
+  ════════════════════════════════════════════════════════════
+-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <samp>
-    <code>DEPLOY</code> • <code>AUTOMATE</code> • <code>SCALE</code><br>
-    <span style="color: #0f0;">[ Bongo Tech Mindset | Global Tech Standards ]</span>
-  </samp>
-</p>
+<!-- 
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                SYSTEM IDENTITY & CAPABILITIES              ║
+  ╚═══════════════════════════════════════════════════════════╝
+-->
 
-<!-- ====================================================================== -->
-<!-- ABOUT ME – PROFESSIONAL + TANZANIAN IDENTITY (CLEAN)                              -->
-<!-- ====================================================================== -->
-### 🧑‍💻 `$ whoami`
+<!-- SYSTEM STATUS CARD -->
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU5YzBmZGI2MjQ1YzA3NDQ0MWY2YzE4ZTA5YzQ5YmQ2ZDM5YzI1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZnklM0MlM0MvZmZmZmY/Z3k4WjNnM2UwYzRlMw/giphy.gif?cid=790b7611c7f9b1e6a2a9a8f6b7d4c8a9b2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7&ep=v1_gifs_search&rid=giphy.gif&ct=gif" />
 
-**I'm Allan Mox.**  
-Full Stack Web Developer & Deployment Engineer from **Tanzania**. I don't just write code — I build **production systems** that stay online.  
+<br/>
 
-My work lives at the intersection of **backend architecture**, **cloud infrastructure**, and **real-world IT solutions**. Whether it's scaling an MVP from zero to thousands of users or recovering a down server at 3 AM, I bring **enterprise discipline** to every deployment.
+<!-- 
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                TECHNICAL STACK ARCHITECTURE               ║
+  ╚═══════════════════════════════════════════════════════════╝
+-->
 
-🇹🇿 **Bongo Tech Builder** – I believe African engineers build at global standards. My mission is to strengthen Tanzania's digital infrastructure, one reliable system at a time.
+<h2 align="center">
+  <code>📦 CORE_STACK_ARCHITECTURE</code>
+</h2>
 
-<br clear="right"/>
+<!-- Enhanced skills presentation with better visual grouping -->
+<div align="center">
 
-<!-- ====================================================================== -->
-<!-- TECH STACK – CLEAN BADGE GROUPS (SHIELDS.IO)                                      -->
-<!-- ====================================================================== -->
-### ⚙️ `$ stack --production`
+| 🎨 **FRONTEND_LAYER** | ⚙️ **BACKEND_LAYER** | 🗄️ **DATA_LAYER** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="HTML5"><br><sub>Semantic Structure</sub> | <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a" alt="Node.js"><br><sub>Runtime Environment</sub> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" alt="MySQL"><br><sub>Relational DB</sub> |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" alt="CSS3"><br><sub>Responsive Design</sub> | <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB&labelColor=1a1a1a" alt="Express.js"><br><sub>API Framework</sub> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" alt="PostgreSQL"><br><sub>Advanced Queries</sub> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" alt="JavaScript"><br><sub>Interactive Logic</sub> | <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=openapiinitiatives&logoColor=white&labelColor=1a1a1a" alt="REST API"><br><sub>Integration</sub> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a" alt="MongoDB"><br><sub>NoSQL (Coming Soon)</sub> |
 
-<p align="center">
-  <strong>▸ FULL STACK ENGINEERING</strong>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1e24&color=00cc88" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1e24&color=00aaff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1e24&color=f0db4f" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1e24&color=e34c26" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1e24&color=2965f1" />
-</p>
+<br/>
 
-<p align="center">
-  <strong>▸ DATABASES & BACKEND</strong>
-</p>
+<!-- 
+  ╔═══════════════════════════════════════════════════════════╗
+  ║            CLOUD & DEPLOYMENT INFRASTRUCTURE              ║
+  ╚═══════════════════════════════════════════════════════════╝
+-->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1e24&color=00758f" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1e24&color=2f6792" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1e24&color=ff6c37" />
-</p>
+<h2 align="center">
+  <code>☁️ DEPLOYMENT_INFRASTRUCTURE</code>
+</h2>
 
-<p align="center">
-  <strong>▸ SYSTEM ARCHITECTURE → PRODUCTION</strong>
-</p>
+> <code>_PRINCIPLE: "Code is only valuable if it's deployed and stable."</code>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MVP%20Design-6f42c1?style=for-the-badge&logo=protodotio&logoColor=white&labelColor=1a1e24&color=8a3ffc" />
-  <img src="https://img.shields.io/badge/Scaling-FF8800?style=for-the-badge&logo=phoenixframework&logoColor=white&labelColor=1a1e24&color=ff8800" />
-</p>
+<div align="center">
 
-<!-- ====================================================================== -->
-<!-- CLOUD & DEPLOYMENT – DEVOPS / INFRASTRUCTURE BADGES                              -->
-<!-- ====================================================================== -->
-### ☁️ `$ deploy --infra`
+<!-- Cloud Providers Grid -->
+<table>
+  <tr>
+    <td align="center" colspan="4">
+      <h3>🌩️ CLOUD_PLATFORMS</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" alt="AWS">
+      <br><sub>EC2 • S3 • Route 53</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6701?style=for-the-badge&logo=alibaba-cloud&logoColor=white&labelColor=1a1a1a" alt="Alibaba Cloud">
+      <br><sub>ECS • SLB • OSS</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=1a1a1a" alt="Digital Ocean">
+      <br><sub>Droplets • Managed DB</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white&labelColor=1a1a1a" alt="Linode">
+      <br><sub>Compute • Networking</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VPS%20Deployment-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1e24&color=2b5f8a" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1e24&color=ff9900" />
-  <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=1a1e24&color=ff6a00" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=1a1e24&color=e95420" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1e24&color=f34f29" />
-  <img src="https://img.shields.io/badge/GitHub%20Workflow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1e24&color=6e40c9" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2C8EBB?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1e24&color=2088ff" />
-  <img src="https://img.shields.io/badge/Env%20Config-ECD53F?style=for-the-badge&logo=doteNV&logoColor=black&labelColor=1a1e24&color=ffdd33" />
-</p>
+<!-- Systems & Tools -->
+<table>
+  <tr>
+    <td align="center" colspan="4">
+      <h3>⚙️ SYSTEMS_ADMINISTRATION</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a" alt="Linux">
+      <br><sub>Kernel • Bash • SysOps</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=1a1a1a" alt="Ubuntu">
+      <br><sub>Server • LTS • Security</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=1a1a1a" alt="Nginx">
+      <br><sub>Reverse Proxy • Load Balance</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" alt="Git">
+      <br><sub>Version Control • Workflows</sub>
+    </td>
+  </tr>
+</table>
 
-<!-- ====================================================================== -->
-<!-- IT SOLUTIONS & SUPPORT – PRODUCTION DEBUGGING / DIAGNOSTICS                       -->
-<!-- ====================================================================== -->
-### 🛡️ `$ it-solutions --diagnose`
+</div>
 
-> **Production troubleshooting | Infrastructure setup | Recovery & diagnostics**  
+<!-- Detailed DevOps Capabilities -->
+<h3>📋 DEPLOYMENT_CAPABILITIES_MATRIX</h3>
 
-```bash
-# real-world IT support mindset
-$ ssh allan@production-server
-$ systemctl status | grep "active"
-$ tail -f /var/log/deployment.log
-$ resolve --incident "client downtime" --stack core
-<p align="center"> <img src="https://img.shields.io/badge/Server%20Troubleshooting-563d7c?style=flat-square&logo=linux&logoColor=white&labelColor=1a1e24&color=8c5bb0" /> <img src="https://img.shields.io/badge/Production%20Debugging-4B8BBE?style=flat-square&logo=pycharm&logoColor=white&labelColor=1a1e24&color=4b8bbe" /> <img src="https://img.shields.io/badge/Infrastructure%20Setup-6366F1?style=flat-square&logo=terraform&logoColor=white&labelColor=1a1e24&color=6366f1" /> <img src="https://img.shields.io/badge/Network%20Diagnostics-00A98F?style=flat-square&logo=wireshark&logoColor=white&labelColor=1a1e24&color=009688" /> </p><!-- ====================================================================== --><!-- CURRENT FOCUS – PROFESSIONAL ROADMAP --><!-- ====================================================================== -->
-🎯 $ focus --current
-environment: production
-region: Tanzania / East Africa
-stack:
-  backend: Node.js microservices
-  cloud: Multi-cloud (AWS + Alibaba) automation
-  mission: Build reliable deployment pipelines for Bongo startups
-next:
-  - CI/CD standardization for MVP teams
-  - Server hardening playbooks
-  - Open-source Tanzanian dev toolkits
+<table>
+  <tr>
+    <th width="25%">Category</th>
+    <th width="75%">Capabilities</th>
+  </tr>
+  <tr>
+    <td><strong>🖧 VPS Administration</strong></td>
+    <td>Production bot deployment • Web application hosting • Automation systems • Security hardening</td>
+  </tr>
+  <tr>
+    <td><strong>🐧 Server Management</strong></td>
+    <td>Linux (Ubuntu) administration • Environment configuration • Performance tuning • Backup strategies</td>
+  </tr>
+  <tr>
+    <td><strong>🔄 CI/CD Pipeline</strong></td>
+    <td>GitHub Actions • Automated testing • Deployment workflows • Rollback procedures</td>
+  </tr>
+  <tr>
+    <td><strong>🔧 Production Debugging</strong></td>
+    <td>Real-time troubleshooting • Log analysis • Performance profiling • Incident response</td>
+  </tr>
+  <tr>
+    <td><strong>🔐 Security Implementation</strong></td>
+    <td>SSL/TLS configuration • Firewall rules • Access control • Vulnerability patching</td>
+  </tr>
+</table>
 
-<!-- ====================================================================== --><!-- SOCIAL & CONTENT PLATFORMS – CLEAN BADGES / DIRECT LINKS --><!-- ====================================================================== -->
-📡 $ social --channels
-<p align="center"> <a href="https://www.tiktok.com/@allan_tech441?_r=1&_t=ZS-93qwaaCjqE8"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a&color=00f2ea" /> </a> <a href="https://youtube.com/@allantech441?si=cs67y5PrnnXHm7iz"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0a&color=ff1e1e" /> </a> <a href="https://www.instagram.com/alanmox8?igsh=MXQ3a3hlaWF5NTBzdw=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a&color=d62976" /> </a> </p><p align="center"> <i>Dev tutorials • Deployment walkthroughs • African tech infrastructure</i> </p><!-- ====================================================================== --><!-- CLOSING MOTTO – TANZANIA / GLOBAL STANDARDS --><!-- ====================================================================== -->
-<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="35" /> <h3> <span style="color: #00ff9d;">From Code → Infrastructure → Production</span> </h3> <blockquote style="color: #ccc; border-left: 4px solid #0f0; padding-left: 1.5em;"> <em> “Tanzanian-built, globally-deployed.<br> We don't just consume technology — we engineer it.” </em> </blockquote> <br> <samp> <span style="color: #00cc99;">❯</span> ALLAN MOX <span style="color: #555;">//</span> BONGO TECH · PRODUCTION READY </samp> <br> <br> <sub><code>deployment.engineer@tanzania</code></sub> <br> <br> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> <img width="60%" alt="closing snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> </picture> </div> ```
+<br/>
+
+<!-- 
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                 IT SOLUTIONS & ENTERPRISE                 ║
+  ╚═══════════════════════════════════════════════════════════╝
+-->
+
+<h2 align="center">
+  <code>🖥️ ENTERPRISE_SOLUTIONS</code>
+</h2>
+
+> <code>_SLA: "When the server goes down, I bring it back up."</code>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <h1>✅</h1>
+      <h3>Infrastructure Architecture</h3>
+      <p>Designing resilient network environments from bare metal to cloud</p>
+    </td>
+    <td align="center">
+      <h1>🔄</h1>
+      <h3>Deployment Recovery</h3>
+      <p>Rapid response protocols for failed deployments & system crashes</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h1>🔍</h1>
+      <h3>Deep Diagnostics</h3>
+      <p>Comprehensive analysis of network health & system performance</p>
+    </td>
+    <td align="center">
+      <h1>🤝</h1>
+      <h3>Technical Consulting</h3>
+      <p>Hands-on problem solving for enterprise clients & startups</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- 
+  ════════════════════════════════════════════════════════════
+                    BONGO TECH IDENTITY
+  ════════════════════════════════════════════════════════════
+-->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <!-- Flag-inspired banner -->
+  <table>
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #1E3A5F 0%, #0A1A2F 100%); padding: 20px; border-radius: 10px;">
+        <h1 style="color: #00FF9D; font-family: 'Fira Code', monospace;">
+          🇹🇿 BONGO_TECH.ID
+        </h1>
+        <h2 style="color: white;">
+          Innovation • Infrastructure • Future
+        </h2>
+        <p style="color: #aaa; font-size: 1.2em;">
+          "We are not just consumers of technology; <br>
+          <strong style="color: #00FF9D;">we are builders of the future.</strong>"
+        </p>
+        <p style="color: #88ffff;">
+          From Dar es Salaam to the cloud — we build systems that scale.
+        </p>
+        <br>
+        <code style="background: #000; padding: 8px 16px; border-radius: 4px;">
+          $ echo "Local Innovation • Global Standards"
+        </code>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<!-- 
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                    CONNECT & COLLABORATE                  ║
+  ╚═══════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+<h2>
+  <code>📡 ESTABLISH_CONNECTION</code>
+</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.tiktok.com/@allan_tech441?_r=1&_t=ZS-93qwaaCjqE8">
+        <img src="https://img.shields.io/badge/TikTok-@allan__tech-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a" width="200" alt="TikTok">
+        <br>
+        <sub>Development tutorials & tech culture</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/@allantech441?si=cs67y5PrnnXHm7iz">
+        <img src="https://img.shields.io/badge/YouTube-@allantech441-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000" width="200" alt="YouTube">
+        <br>
+        <sub>In-depth deployment guides</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/alanmox8?igsh=MXQ3a3hlaWF5NTBzdw==">
+        <img src="https://img.shields.io/badge/Instagram-@alanmox8-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=d43f5a" width="200" alt="Instagram">
+        <br>
+        <sub>Behind the scenes & updates</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Terminal style signature -->
+<pre align="center" style="background: #0a0a0a; color: #00FF9D; padding: 20px; border-radius: 8px; font-family: 'Fira Code', monospace;">
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   █████╗ ██╗     ██╗      █████╗ ███╗   ██╗                      ║
+║  ██╔══██╗██║     ██║     ██╔══██╗████╗  ██║                      ║
+║  ███████║██║     ██║     ███████║██╔██╗ ██║                      ║
+║  ██╔══██║██║     ██║     ██╔══██║██║╚██╗██║                      ║
+║  ██║  ██║███████╗███████╗██║  ██║██║ ╚████║                      ║
+║  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝                      ║
+║                                                                  ║
+║  From Code → Infrastructure → Production                         ║
+║  © 2026 Allan Mox • Bongo Tech • All Systems Operational         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
+
+<sub><i>✨ Production-ready infrastructure, deployed with precision ✨</i></sub>
+
+</div>
